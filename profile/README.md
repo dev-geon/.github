@@ -5,9 +5,10 @@ AI 어시스턴스 모음
 ## About
 AI 에이전트를 더욱 컨트롤하기 편리하고 정확하게 사용 할 수 있도록 해 주는 도구 개발 모음 사전
 
-## 🔧 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-<!-- 필요한 배지를 추가하세요: https://shields.io -->
+실무에서 AI 에이전트와 일하며 만든 스킬과 작업 규칙을 정리해 공개합니다.
+
+## 🛠 Works with
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 📌 Projects
 | Project | Description |
