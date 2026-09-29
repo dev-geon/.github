@@ -1,6 +1,6 @@
 # 👋 dev-geon
 
-AI 어시스턴스 모음
+AI Assistance Collection
 
 ## About
 AI 에이전트를 더욱 컨트롤하기 편리하고 정확하게 사용 할 수 있도록 해 주는 도구 개발 모음 사전
