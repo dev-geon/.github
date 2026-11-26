@@ -14,7 +14,8 @@ AI 에이전트를 더욱 컨트롤하기 편리하고 정확하게 사용 할 �
 | Project | Description |
 | --- | --- |
 | [veriloop](https://github.com/dev-geon/veriloop) | Spec-grounded code review and repair loops for Codex and Claude Code |
-| [dev-dashboard](https://github.com/dev-geon/dev-dashboard) | Evidence-linked, single-file HTML dashboards for development change sets |
+| [system-dashboard](https://github.com/dev-geon/system-dashboard) | Single-file HTML system-structure dashboards: AS IS ▶ TO BE, per-table change cards, tiered architecture, flowcharts with real use cases — linted before build |
+| veriloop-desktop | Desktop app that runs Veriloop from plan to spec interview, implementation loop and result check — **Coming soon** |
 
 ## 🏷 Topics
 `ai-agent` `ai-skills` `claude-code` `codex` `harness-engineering`
